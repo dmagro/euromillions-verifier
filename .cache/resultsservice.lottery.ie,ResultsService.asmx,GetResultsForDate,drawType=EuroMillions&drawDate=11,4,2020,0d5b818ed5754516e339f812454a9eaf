@@ -1,0 +1,12 @@
+status: 200
+content-length: 205
+content-location: http://resultsservice.lottery.ie/ResultsService.asmx/GetResultsForDate?drawType=EuroMillions&drawDate=11/4/2020
+x-aspnet-version: 2.0.50727
+x-powered-by: ASP.NET
+server: Microsoft-IIS/6.0
+cache-control: private, max-age=0
+date: Fri, 29 Aug 2014 18:28:40 GMT
+content-type: text/xml; charset=utf-8
+
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDrawResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.lottery.ie/resultsservice" />
