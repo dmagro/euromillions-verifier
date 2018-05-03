@@ -1,4 +1,4 @@
-euromillions-verifier
+Euromillions-verifier
 =====================
 
 MIT License
